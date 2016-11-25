@@ -58,6 +58,23 @@ body {
 	display: block;
 	clear: both;
 }
+
+.nav-tabs > li, .nav-pills > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+     zoom:1; /* hasLayout ie7 trigger */
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+}
+
+
+.tab-pane fade in active{
+	text-align: center;
+}
+
 .centered {text-align: center}
 .mt {margin-top: 50px;}
 .mb {margin-bottom: 50px;}
@@ -252,7 +269,6 @@ input {
 	margin:0 !important;
 	display:block;
 }
-
 
 .portfolio-item .title:before {border-radius:0; display:none}
 .portfolio-item p {margin:0px 0 30px;}

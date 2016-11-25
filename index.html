@@ -56,7 +56,7 @@
             <i class="ion-game-controller-a"></i>
             <h3>Game Maker</h3>
           </div><!--/col-md-4-->
-        
+
         </div><!--/row-->
       </div><!--/container-->
     </div><!--H-->
@@ -102,6 +102,7 @@
     <div class="tab-content">
         <div class="tab-pane fade in active" id="A">
             <!-- Portfolio starts Here -->
+            <div class="centered">
             <div class="portfolio-centered mt">
               <div class="recentitems portfolio">
                 <div class="portfolio-item graphic-design">
@@ -113,11 +114,11 @@
                         <a data-rel="prettyPhoto" href="assets/img/portfolio/Animation.gif" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
                         <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
                       </div><!-- he bg -->
-                    </div><!-- he view -->    
+                    </div><!-- he view -->
                   </div><!-- he wrap -->
                 </div><!-- end col-12 -->
-                                    
-                <div class="portfolio-item web-design">
+
+                <div class="portfolio-item graphic-design">
                   <div class="he-wrap tpl6">
                   <img src="assets/img/portfolio/personagemSmall.gif" class="img-responsive" alt="">
                     <div class="he-view">
@@ -126,10 +127,10 @@
                         <a data-rel="prettyPhoto" href="assets/img/portfolio/personagem.gif" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
                         <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
                       </div><!-- he bg -->
-                    </div><!-- he view -->    
+                    </div><!-- he view -->
                   </div><!-- he wrap -->
                 </div><!-- end col-12 -->
-                
+
                 <div class="portfolio-item graphic-design">
                   <div class="he-wrap tpl6">
                   <img src="assets/img/portfolio/menuBlasterSmall.jpg" class="img-responsive" alt="">
@@ -139,10 +140,10 @@
                         <a data-rel="prettyPhoto" href="assets/img/portfolio/menuBlaster.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
                         <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
                       </div><!-- he bg -->
-                    </div><!-- he view -->    
+                    </div><!-- he view -->
                   </div><!-- he wrap -->
                 </div><!-- end col-12 -->
-                
+
                 <div class="portfolio-item graphic-design">
                   <div class="he-wrap tpl6">
                   <img src="assets/img/portfolio/portfolio_03.jpg" class="img-responsive" alt="">
@@ -152,15 +153,15 @@
                         <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_03.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-search"></i></a>
                         <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="ion-link"></i></a>
                       </div><!-- he bg -->
-                    </div><!-- he view -->    
+                    </div><!-- he view -->
                   </div><!-- he wrap -->
                 </div><!-- end col-12 -->
-                                                
-                
-                
+
               </div><!-- portfolio -->
             </div><!-- portfolio container -->
         </div>
+      </div>
+        <!--Starts Container of Code-->
         <div class="tab-pane fade" id="B">
             Code
         </div>
@@ -234,11 +235,11 @@
   var $container = $('.portfolio'),
     $items = $container.find('.portfolio-item'),
     portfolioLayout = 'fitRows';
-    
+
     if( $container.hasClass('portfolio-centered') ) {
       portfolioLayout = 'masonry';
     }
-        
+
     $container.isotope({
       filter: '*',
       animationEngine: 'best-available',
@@ -251,12 +252,12 @@
     masonry: {
     }
     }, refreshWaypoints());
-    
+
     function refreshWaypoints() {
       setTimeout(function() {
-      }, 1000);   
+      }, 1000);
     }
-        
+
     $('nav.portfolio-filter ul a').on('click', function() {
         var selector = $(this).attr('data-filter');
         $container.isotope({ filter: selector }, refreshWaypoints());
@@ -264,11 +265,11 @@
         $(this).addClass('active');
         return false;
     });
-    
-    function getColumnNumber() { 
-      var winWidth = $(window).width(), 
+
+    function getColumnNumber() {
+      var winWidth = $(window).width(),
       columnNumber = 1;
-    
+
       if (winWidth > 1200) {
         columnNumber = 5;
       } else if (winWidth > 950) {
@@ -281,31 +282,31 @@
         columnNumber = 1;
       }
         return columnNumber;
-      }       
-      
+      }
+
       function setColumns() {
-        var winWidth = $(window).width(), 
-        columnNumber = getColumnNumber(), 
+        var winWidth = $(window).width(),
+        columnNumber = getColumnNumber(),
         itemWidth = Math.floor(winWidth / columnNumber);
-        
-        $container.find('.portfolio-item').each(function() { 
-          $(this).css( { 
-          width : itemWidth + 'px' 
+
+        $container.find('.portfolio-item').each(function() {
+          $(this).css( {
+          width : itemWidth + 'px'
         });
       });
     }
-    
-    function setPortfolio() { 
+
+    function setPortfolio() {
       setColumns();
       $container.isotope('reLayout');
     }
-      
-    $container.imagesLoaded(function () { 
+
+    $container.imagesLoaded(function () {
       setPortfolio();
     });
-    
-    $(window).on('resize', function () { 
-    setPortfolio();          
+
+    $(window).on('resize', function () {
+    setPortfolio();
   });
 })(jQuery);
 </script>

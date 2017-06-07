@@ -366,7 +366,7 @@
       function setColumns() {
         var winWidth = $(window).width(),
         columnNumber = getColumnNumber(),
-        itemWidth = Math.floor(winWidth / columnNumber);
+        itemWidth = Math.floor(winWidth / 3);
 
         $container.find('.portfolio-item').each(function() {
           $(this).css( {

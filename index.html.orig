@@ -8,7 +8,11 @@
     <meta name="author" content="">
     <link rel="icon" href="assets/img/favicon.ico">
 
+<<<<<<< HEAD
+    <title>CAJUUH - Pedro Alcântara</title>
+=======
     <title>Pedro Alcântara - call me cajuuh</title>
+>>>>>>> gh-pages
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -390,6 +394,7 @@
 })(jQuery);
 </script>
 <script>
+<<<<<<< HEAD
 (function($) {
   "use strict";
   var $container = $('.code-portfolio'),
@@ -469,6 +474,16 @@
     setPortfolio();
   });
 })(jQuery);
+=======
+function sendMail()
+{
+    var yourMessage = document.getElementById("message").value;
+    var subject = document.getElementById("selectList").value;
+    document.location.href = "mailto:pedro.filipi.alcantara@gmail.com?subject="
+        + encodeURIComponent(subject)
+        + "&body=" + encodeURIComponent(yourMessage);
+}
+>>>>>>> gh-pages
 </script>
   </body>
 </html>

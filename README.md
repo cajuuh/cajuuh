@@ -1,7 +1,7 @@
 
 # Pedro Cajuuh's Profile
 
----
+Simple personal profile for game🕹 web💻 developer.
 
 ## CREDITS:
 
@@ -43,6 +43,3 @@ http://www.owlcarousel.owlgraphic.com/
 
 ### EasyPieChart
 https://github.com/rendro/easy-pie-chart
-
-### Demo Images:
-http://unsplash.com

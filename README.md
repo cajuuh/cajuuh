@@ -1,4 +1,3 @@
-
 # Pedro Cajuuh's Profile
 
 Simple personal profile for game🕹 web💻 developer.

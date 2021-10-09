@@ -8,7 +8,7 @@ My name is Pedro Alcântara i'm a computer science graduate at the [UFCG](https:
 
 ## 👨🏾‍💻 Work
 
-Today i'm working at [Stefanini](https://www.stefanini.com) a consulting company world wide, inside there i started as a backend developer and discovered, by accident i think, that i love front-end development, today i'm working with some javascript (and typescript) frameworks.
+Today i'm working at [Framework Digital](https://www.frameworkdigital.com.br/) a consulting company located on Belo Horizonte, currently developing with a world wide team for a cropwise application delivered for everycountry running on react.
 
 ## 🧰 Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

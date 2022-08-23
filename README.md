@@ -8,7 +8,7 @@ My name is Pedro Alcântara i'm a computer science bachelor from [UFCG](https://
 
 ## 👨🏾‍💻 Work
 
-Today i'm working at [Framework Digital](https://www.frameworkdigital.com.br/) a consulting company located on Belo Horizonte, currently developing with a world wide team for a cropwise application delivered for everycountry running on react.
+Today i'm working at [NeoCharge](https://www.getneocharge.com/) an IoT company that'll help the user measure and better understand how you charge your electric car, also you can use the device to power many of the user electronics.
 
 ## 🧰 Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

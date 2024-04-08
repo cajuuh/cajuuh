@@ -5,7 +5,7 @@ My name is Pedro Alcântara i'm a computer science bachelor from [UFCG](https://
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cajuuh/)](https://www.linkedin.com/in/cajuuh/)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-darkblue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/cajuuh/)](https://www.twitter.com/cajuuh/)
 
-[![Mastodon Badge](https://img.shields.io/mastodon/follow/109334421933596416?domain=https%3A%2F%2Fhachyderm.io&label=mastodon&logo=mastodon&style=flat-square)](https://hachyderm.io/@cajuuh)
+[![Mastodon Badge](https://img.shields.io/mastodon/follow/112233037415933522?domain=https%3A%2F%2Fbolha.one&label=mastodon&logo=mastodon&style=flat-square)](https://bolha.one/@cajuuh)
 <a rel="me" href="https://hachyderm.io/@cajuuh"></a>
 [![Facebook Badge](https://img.shields.io/badge/-facebook-gray?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cajuuh/)](https://www.facebook.com/cajuuh/)
 

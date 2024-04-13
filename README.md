@@ -33,7 +33,4 @@ I'm currently working on [Dexian](https://www.dexian.com) as a Front-End Enginee
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cajuuh&hide=TeX&layout=compact&theme=radical) 
-----------
-<a href="https://app.daily.dev/cajuuh"><img src="https://api.daily.dev/devcards/v2/Ls8bx0kwZBzqKxgJI9OdQ.png?type=default&r=4d8" width="356" alt="Pedro Alcântara's Dev Card"/></a>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cajuuh&hide=TeX&layout=compact&theme=radical) <a href="https://app.daily.dev/cajuuh"><img src="https://api.daily.dev/devcards/v2/Ls8bx0kwZBzqKxgJI9OdQ.png?type=wide&r=lxn" width="652" alt="Pedro Alcântara's Dev Card" align="right"/></a>

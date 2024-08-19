@@ -14,7 +14,7 @@ My name is Pedro Alcântara i'm a computer science bachelor from [UFCG](https://
 
 ## 👨🏾‍💻 Work
 
-I'm currently working on [Dexian](https://www.dexian.com) as a Front-End Engineer for The Home Depot, we're acting on a micro-frontends architecture where we can colaborate and find a lot of new solutions over a lot of teams, is great to see how we can improve and make the application better for the users, under payments, cart and browsering experience.
+I'm currently working as a Front-End Engineer, we're acting on a micro-frontends architecture where we can colaborate and find new solutions for really complex problems, is great to see how we can improve and make the application better for the users experience.
 
 ## 🧰 Technologies
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)

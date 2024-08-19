@@ -1,4 +1,7 @@
+![github-header-image](https://github.com/user-attachments/assets/a999d590-e0c8-41c1-806f-86751f26dbac)
+
 ## Oh hi There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
 
 My name is Pedro Alcântara i'm a computer science bachelor from [UFCG](https://portal.ufcg.edu.br/) and currently a senior developer at [Adeva](https://www.adevait.com), i'm a brazilian programmer and open-source advocate. I look for projects to colaborate very often, if you need help and i can do it for you please reach me:
 

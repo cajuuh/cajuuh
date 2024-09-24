@@ -3,7 +3,7 @@
 ## Oh hi There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 
-My name is Pedro Alcântara i'm a computer science bachelor from [UFCG](https://portal.ufcg.edu.br/) and currently a senior developer at [Adeva](https://www.adevait.com), i'm a brazilian programmer and open-source advocate. I look for projects to colaborate very often, if you need help and i can do it for you please reach me:
+My name is Pedro Alcântara i'm a computer science bachelor from [UFCG](https://portal.ufcg.edu.br/) and currently a Front-end engineer at [Dexian](https://www.dexian.com), i'm a brazilian programmer and open-source advocate. I look for projects to colaborate very often, if you need help and i can do it for you please reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cajuuh/)](https://www.linkedin.com/in/cajuuh/)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-darkblue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/cajuuh/)](https://www.twitter.com/cajuuh/)

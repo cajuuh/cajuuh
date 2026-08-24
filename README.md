@@ -28,7 +28,7 @@
 
 - 🎓 Graduated with a Bachelor's Degree in **Computer Science** from **[UFCG](https://portal.ufcg.edu.br/)** (Universidade Federal de Campina Grande).
 - 🏆 **Toptal Vetted Front-End Engineer** — Top 3% of global freelance software developers.
-- 💼 Currently working as a **Front-End Engineer** at **[Dexian](https://www.dexian.com)**, architecting **Micro-Frontends** and engineering high-performance web applications.
+- 💼 Currently working as a **Front-End Engineer** at **[Toptal](https://www.toptal.com)**
 - 🇧🇷 Brazilian developer & open-source advocate.
 - 🤝 Always open for collaboration on exciting projects, UI systems, and web architectures!
 

@@ -75,10 +75,6 @@
   <img src="https://streak-stats.demolab.com/?user=cajuuh&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/cajuuh" alt="Pedro's Contribution Chart" width="100%" />
-</p>
-
 ---
 
 ### 🐍 Contribution Activity

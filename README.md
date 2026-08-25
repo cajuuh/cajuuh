@@ -2,15 +2,15 @@
   <img src="https://github.com/user-attachments/assets/a999d590-e0c8-41c1-806f-86751f26dbac" width="100%" alt="Header Banner" />
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Hi+there!+%F0%9F%91%8B+I'm+Pedro+Alc%C3%A2ntara;Toptal+Front-End+Engineer;Front-End+Engineer+%40+Dexian;Open-Source+Advocate+%26+CS+Bsc." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there!+%F0%9F%91%8B+I'm+Pedro+Alc%C3%A2ntara;Toptal+Front-End+Engineer;Front-End+Engineer+%40+Career+Certified+(via+Toptal);Open-Source+Advocate+%26+CS+Bsc." alt="Typing SVG" />
   </h1>
 
   <p align="center">
-    <strong>Computer Science Bachelor (UFCG) • Toptal Engineer • Front-End @ Dexian • Open Source Advocate</strong>
+    <strong>Computer Science Bachelor (UFCG) • Toptal Engineer • Front-End @ Career Certified • Open Source Advocate</strong>
   </p>
 
   <p align="center">
-    <a href="https://www.toptal.com"><img src="https://img.shields.io/badge/Toptal-204ECF?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal"></a>
+    <a href="https://www.toptal.com/resume/pedro-alcantara"><img src="https://img.shields.io/badge/Toptal-204ECF?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal"></a>
     <a href="https://www.linkedin.com/in/cajuuh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.twitter.com/cajuuh/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="https://bolha.one/@cajuuh"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
@@ -28,7 +28,7 @@
 
 - 🎓 Graduated with a Bachelor's Degree in **Computer Science** from **[UFCG](https://portal.ufcg.edu.br/)** (Universidade Federal de Campina Grande).
 - 🏆 **Toptal Vetted Front-End Engineer** — Top 3% of global freelance software developers.
-- 💼 Currently working as a **Front-End Engineer** at **[Dexian](https://www.dexian.com)**, architecting **Micro-Frontends** and engineering high-performance web applications.
+- 💼 Currently working via **[Toptal](https://www.toptal.com/resume/pedro-alcantara)** as a **Front-End Engineer** for **Career Certified**, architecting **Micro-Frontends** and engineering high-performance web applications.
 - 🇧🇷 Brazilian developer & open-source advocate.
 - 🤝 Always open for collaboration on exciting projects, UI systems, and web architectures!
 

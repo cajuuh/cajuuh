@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cajuuh&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/38bdf8/cajuuh" alt="Pedro's Contribution Chart" width="100%" />
 </p>
 
 ---

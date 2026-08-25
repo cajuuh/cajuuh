@@ -28,17 +28,19 @@
 
 - 🎓 Graduated with a Bachelor's Degree in **Computer Science** from **[UFCG](https://portal.ufcg.edu.br/)** (Universidade Federal de Campina Grande).
 - 🏆 **Toptal Vetted Front-End Engineer** — Top 3% of global freelance software developers.
-- 💼 Currently working as a **Front-End Engineer** at **[Toptal](https://www.toptal.com)**
+- 💼 Currently working as a **Front-End Engineer** at **[Dexian](https://www.dexian.com)**, architecting **Micro-Frontends** and engineering high-performance web applications.
 - 🇧🇷 Brazilian developer & open-source advocate.
 - 🤝 Always open for collaboration on exciting projects, UI systems, and web architectures!
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 🏆 Achievements & Highlights
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cajuuh&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Toptal-Vetted_Software_Engineer-204ECF?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal Vetted Engineer" />
+  <img src="https://img.shields.io/badge/GitHub-Pull_Shark-1f2937?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/Open_Source-Advocate-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Advocate" />
+</p>
 
 ---
 

@@ -28,7 +28,7 @@
 
 - 🎓 Graduated with a Bachelor's Degree in **Computer Science** from **[UFCG](https://portal.ufcg.edu.br/)** (Universidade Federal de Campina Grande).
 - 🏆 **Toptal Vetted Front-End Engineer** — Top 3% of global freelance software developers.
-- 💼 Currently working via **[Toptal](https://www.toptal.com/resume/pedro-alcantara)** as a **Front-End Engineer** at **Career Certified**, building e-commerce dashboards, Contentful CMS integrations, and modern UI component systems.
+- 💼 Currently working as a **Front-End Engineer** at **Career Certified**, building e-commerce dashboards, Contentful CMS integrations, and modern UI component systems.
 - 🇧🇷 Brazilian developer & open-source advocate.
 - 🤝 Always open for collaboration on exciting projects, UI systems, and web architectures!
 

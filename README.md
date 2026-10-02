@@ -85,3 +85,21 @@
   <img src="https://raw.githubusercontent.com/cajuuh/cajuuh/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+---
+
+### ⚡ Recent Open-Source Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 💻 Connect via Terminal
+
+Run this in your console or terminal to view my interactive card:
+
+```bash
+npx cajuuh
+```
+
+

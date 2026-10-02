@@ -21,6 +21,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: master
+          fetch-depth: 1
 
       - name: Update Activity Section
         uses: jamesgeorge007/github-activity-readme@master

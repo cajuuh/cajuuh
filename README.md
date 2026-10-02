@@ -90,6 +90,5 @@
 ### 📝 Recent Articles & Publications
 
 <!-- BLOG-POST-LIST:START -->
-- [How i implemented my server login screen for Mastodon](https://dev.to/cajuuh/how-i-implemented-my-server-login-screen-for-mastodon-5g4n) (Sep 19, 2024)
-<!-- BLOG-POST-LIST:END -->
+- [How i implemented my server login screen for Mastodon](https://dev.to/cajuuh/how-i-implemented-my-server-login-screen-for-mastodon-5g4n) (Sep 19, 2024)<!-- BLOG-POST-LIST:END -->
 

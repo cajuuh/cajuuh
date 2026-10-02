@@ -12,6 +12,7 @@
   <p align="center">
     <a href="https://www.toptal.com/resume/pedro-alcantara"><img src="https://img.shields.io/badge/Toptal-204ECF?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal"></a>
     <a href="https://www.linkedin.com/in/cajuuh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://dev.to/cajuuh"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"></a>
     <a href="https://www.twitter.com/cajuuh/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="https://bolha.one/@cajuuh"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"></a>
     <a href="https://www.facebook.com/cajuuh/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -86,10 +87,9 @@
 
 ---
 
-### 📰 Daily.dev Developer Card
+### 📝 Recent Articles & Publications
 
-<p align="center">
-  <a href="https://app.daily.dev/cajuuh">
-    <img src="https://api.daily.dev/devcards/v2/Ls8bx0kwZBzqKxgJI9OdQ.png?type=wide&r=lxn" width="100%" alt="Pedro Alcântara's Dev Card" />
-  </a>
-</p>
+<!-- BLOG-POST-LIST:START -->
+- [How i implemented my server login screen for Mastodon](https://dev.to/cajuuh/how-i-implemented-my-server-login-screen-for-mastodon-5g4n) (Sep 19, 2024)
+<!-- BLOG-POST-LIST:END -->
+

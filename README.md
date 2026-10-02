@@ -97,14 +97,4 @@
 5. 🗣 Commented on [#78](https://github.com/cajuuh/pugdomv2/issues/78#issuecomment-5960910564) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
 <!--END_SECTION:activity-->
 
----
-
-### 💻 Connect via Terminal
-
-Run this in your console or terminal to view my interactive card:
-
-```bash
-npx cajuuh
-```
-
 

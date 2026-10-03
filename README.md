@@ -29,7 +29,7 @@
 
 - 🎓 Graduated with a Bachelor's Degree in **Computer Science** from **[UFCG](https://portal.ufcg.edu.br/)** (Universidade Federal de Campina Grande).
 - 🏆 **Toptal Vetted Front-End Engineer** — Top 3% of global freelance software developers.
-- 💼 Currently working as a **Front-End Engineer** at **Career Certified**, building e-commerce dashboards, Contentful CMS integrations, and modern UI component systems.
+- 💼 Currently working as a **Front-End Engineer** at **Career Certified**, building e-commerce dashboards, Contentful CMS integrations, static site architectures (11ty, Nunjucks), AWS S3 asset delivery, and modern UI component systems.
 - 🇧🇷 Brazilian developer & open-source advocate.
 - 🤝 Always open for collaboration on exciting projects, UI systems, and web architectures!
 
@@ -54,10 +54,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Eleventy](https://img.shields.io/badge/Eleventy-222222?style=for-the-badge&logo=eleventy&logoColor=white)
+![Nunjucks](https://img.shields.io/badge/Nunjucks-1C4913?style=for-the-badge&logo=nunjucks&logoColor=white)
 ![Contentful](https://img.shields.io/badge/Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
 
 #### **Backend, Cloud & Infrastructure**
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)

@@ -35,12 +35,12 @@
 
 ---
 
-### 🏆 Achievements & Highlights
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Toptal-Vetted_Software_Engineer-204ECF?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal Vetted Engineer" />
-  <img src="https://img.shields.io/badge/GitHub-Pull_Shark-1f2937?style=for-the-badge&logo=github&logoColor=38bdf8" alt="Pull Shark" />
-  <img src="https://img.shields.io/badge/Open_Source-Advocate-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source Advocate" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=cajuuh&theme=tokyonight&row=2&column=6&margin-w=4&margin-h=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---

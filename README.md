@@ -94,11 +94,11 @@
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#205](https://github.com/cajuuh/pugdomv2/issues/205) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
-2. ℹ️ Labeled issue [#205](https://github.com/cajuuh/pugdomv2/issues/205) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
-3. ℹ️ Labeled issue [#204](https://github.com/cajuuh/pugdomv2/issues/204) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
-4. ❗ Opened issue [#204](https://github.com/cajuuh/pugdomv2/issues/204) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
-5. 🗣 Commented on [#112](https://github.com/cajuuh/pugdomv2/issues/112#issuecomment-6130989554) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+1. 🔒 Closed issue [#205](https://github.com/cajuuh/pugdomv2/issues/205) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+2. 🎉 Merged PR [#209](https://github.com/cajuuh/pugdomv2/pull/209) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+3. 💪 Opened PR [#209](https://github.com/cajuuh/pugdomv2/pull/209) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+4. 🔒 Closed issue [#206](https://github.com/cajuuh/pugdomv2/issues/206) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+5. 🎉 Merged PR [#208](https://github.com/cajuuh/pugdomv2/pull/208) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
 <!--END_SECTION:activity-->
 
 

@@ -94,11 +94,11 @@
 ### ⚡ Recent Open-Source Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#339](https://github.com/cajuuh/pugdomv2/issues/339) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
-2. 🎉 Merged PR [#394](https://github.com/cajuuh/pugdomv2/pull/394) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
-3. 🎉 Merged PR [#352](https://github.com/cajuuh/pugdomv2/pull/352) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
-4. 💪 Opened PR [#394](https://github.com/cajuuh/pugdomv2/pull/394) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
-5. ℹ️ Labeled issue [#393](https://github.com/cajuuh/pugdomv2/issues/393) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+1. ℹ️ Labeled issue [#396](https://github.com/cajuuh/pugdomv2/issues/396) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+2. ❗ Opened issue [#396](https://github.com/cajuuh/pugdomv2/issues/396) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+3. ℹ️ Assigned issue [#396](https://github.com/cajuuh/pugdomv2/issues/396) in [cajuuh/pugdomv2](https://github.com/cajuuh/pugdomv2)
+4. 🗣 Commented on [#1](https://github.com/olanta/OLTN/issues/1#issuecomment-6865170016) in [olanta/OLTN](https://github.com/olanta/OLTN)
+5. 🔒 Closed issue [#1](https://github.com/olanta/OLTN/issues/1) in [olanta/OLTN](https://github.com/olanta/OLTN)
 <!--END_SECTION:activity-->
 
 
